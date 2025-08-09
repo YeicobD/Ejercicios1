@@ -27,7 +27,7 @@
         alert(numeroMax);
         numeroMax = numeroMax -1;
 }
-
+*/
 //cuenta progresiva
 
 let numeroContar =  parseInt(prompt('Ingresa un número para iniciar el conteo'));
@@ -45,4 +45,3 @@ if (isNaN(numeroContar)) {
     }
     alert('Conteo terminado');
 }
-*/
